@@ -9,5 +9,7 @@ It is vaguely inspired in the concept of **Biomorphs**, a virtual creature descr
 
 The code is written by me on Matlab with the exception of the function for fractal generation, which is modified from: Dmitry (2021). Generation of 2D fractal trees (https://www.mathworks.com/matlabcentral/fileexchange/29536-generation-of-2d-fractal-trees), MATLAB Central File Exchange. Retrieved April 19, 2021.
 
+![my image](gen1.png)
+
 Variables:
 -------------------
